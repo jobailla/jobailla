@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobailla&layout=compact&theme=tokyonight" alt="languages" height="165">
+![](https://github-readme-stats.vercel.app/api?username=jobailla&layout=compact&hide=stars&count_private=true&theme=tokyonight&show_icons=true&hide_rank=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=jobailla&layout=compact&theme=tokyonight)
