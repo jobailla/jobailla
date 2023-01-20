@@ -1,4 +1,3 @@
-![](https://github-readme-stats.vercel.app/api?username=jobailla&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 ![React Universe](./images/react-universe.jpg?raw=true) 
 
@@ -6,5 +5,3 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jobailla&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jobailla&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/jonathabaillai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jobailla42/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/j0hn42) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jobailla) 
