@@ -1,19 +1,7 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jonathan%20BAILLAIS&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Code%20%C2%B7%20Design%20%C2%B7%20Curiosit%C3%A9&descAlignY=60&descSize=20" alt="Jonathan BAILLAIS" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header" alt="" />
 </p>
-
-<!-- Titre animé -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Salut,+moi+c'est+Jonathan+%F0%9F%91%8B;D%C3%A9veloppeur+front+%26+back;Cr%C3%A9atif+dans+l'%C3%A2me+%F0%9F%8E%A8;Toujours+en+train+d'apprendre+%E2%9C%A8" alt="Typing SVG" />
-</p>
-
-## 👨‍💻 À propos de moi
-
-- 🔭 Je construis des applis web de bout en bout, de l'interface à l'infra
-- 🎨 J'aime autant le code que le design : Figma, Blender et Adobe font partie de mon quotidien
-- 🌱 J'apprends en ce moment : *à compléter*
-- ⚡ Fun fact : *à compléter*
 
 ## 🛠️ Mon stack
 
