@@ -20,12 +20,12 @@
 ## Mes stats GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jobailla&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobailla&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=j0hn-42&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0hn-42&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jobailla&theme=tokyonight&hide_border=true" alt="Streak GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=j0hn-42&theme=tokyonight&hide_border=true" alt="Streak GitHub" />
 </p>
 
 <!-- Pied de page -->
